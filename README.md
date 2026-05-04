@@ -52,3 +52,8 @@ Here is a look at the application and the testing reports in action:
 4. Build and sync the project using Gradle.
 5. Run the application on an emulator or physical device.
 6. To run the automated tests, execute the **Espresso test suite** from the `androidTest` directory.
+
+---
+<div align="center">
+  <i>Engineered with ❤️ by Ritesh & Team.</i>
+</div>
