@@ -1,19 +1,13 @@
-# Raksha | Women Safety & Emergency Response
+<div align="center">
+  # 🛡️ Raksha
 
-Raksha is a robust Android application developed to enhance personal safety for women. It leverages real-time location tracking and instant alert systems to provide a security net during emergencies.
+  *A comprehensive Android application for women's safety with robust automation testing.*
 
-## ✨ Features
-* **One-Tap SOS:** Immediately sends GPS coordinates to emergency contacts.
-* **Location Tracking:** Real-time integration with Google Maps API.
-* **Safety Siren:** Loud acoustic alarm to deter potential threats.
-* **Emergency Contacts:** Securely store and manage trusted phone numbers.
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+  [![Espresso](https://img.shields.io/badge/Espresso-Testing-FF0000?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/training/testing/espresso)
+</div>
 
-## 🛠 Tech Stack
-* **Language:** Java / Kotlin
-* **IDE:** Android Studio
-* **APIs:** Google Maps SDK, Twilio (for SMS alerts), Android Location Services.
+---
 
-## 🏗 Setup
-1. Clone the repository.
-2. Add your Google Maps API key to `local.properties`.
-3. Build and run using Android Studio.
+Raksha is an Android-based mobile application developed to provide immediate assistance and emergency support to users in critical situations. In today's fast-paced world, ensuring personal safety has become a major concern, especially for women. Raksha addresses this issue by integrating essential safety features and validating them thoroughly using an automated testing framework.
