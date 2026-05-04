@@ -55,5 +55,5 @@ Here is a look at the application and the testing reports in action:
 
 ---
 <div align="center">
-  <i>Engineered with ❤️ by Ritesh & Team.</i>
+  <i>Engineered with ❤️ by Ritesh.</i>
 </div>
