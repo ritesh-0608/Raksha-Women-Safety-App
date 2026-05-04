@@ -11,3 +11,11 @@
 ---
 
 Raksha is an Android-based mobile application developed to provide immediate assistance and emergency support to users in critical situations. In today's fast-paced world, ensuring personal safety has become a major concern, especially for women. Raksha addresses this issue by integrating essential safety features and validating them thoroughly using an automated testing framework.
+
+## ✨ Features
+
+- 🚨 **One-Tap SOS:** Immediately sends GPS coordinates to emergency contacts.
+- 📍 **Real-time Location:** Live location tracking and sharing during emergencies.
+- 🏥 **Nearby Assistance Search:** Quickly find nearby police stations, hospitals, and medical stores.
+- 🤖 **Automated UI Testing:** Extensive functional validation using Android Espresso and UIAutomator.
+- 📊 **Centralized Test Reporting:** Dynamic HTML-based master reports tracking pass/fail statistics for regression testing.
