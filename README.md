@@ -19,3 +19,17 @@ Raksha is an Android-based mobile application developed to provide immediate ass
 - 🏥 **Nearby Assistance Search:** Quickly find nearby police stations, hospitals, and medical stores.
 - 🤖 **Automated UI Testing:** Extensive functional validation using Android Espresso and UIAutomator.
 - 📊 **Centralized Test Reporting:** Dynamic HTML-based master reports tracking pass/fail statistics for regression testing.
+
+## 📸 Screenshots
+
+Here is a look at the application and the testing reports in action:
+
+| Dashboard View | Emergency Search |
+| :---: | :---: |
+| <img src="assets/images/placeholder.png" width="400" alt="Dashboard View"> | <img src="assets/images/placeholder.png" width="400" alt="Emergency Search"> |
+
+| Automated Test Report | Tracking Location |
+| :---: | :---: |
+| <img src="assets/images/placeholder.png" width="400" alt="Automated Test Report"> | <img src="assets/images/placeholder.png" width="400" alt="Tracking Location"> |
+
+*(Note: Replace the placeholder images with actual screenshots in the `assets/images` directory).*
