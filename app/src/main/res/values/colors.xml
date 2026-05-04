@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_red">#E63946</color>
+    <color name="primary_red_dark">#D62828</color>
+    <color name="primary_pink">#F77F88</color>
+
+    <!-- Light Theme Accent Colors -->
+    <color name="accent_white">#FFFFFF</color>
+    <color name="accent_light_gray">#F8F9FA</color>
+    <color name="accent_medium_gray">#E9ECEF</color>
+    <color name="accent_dark_gray">#6C757D</color>
+    <color name="accent_black">#212529</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="dark_bg">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_card">#2C2C2C</color>
+    <color name="dark_text">#E0E0E0</color>
+    <color name="dark_text_secondary">#B0B0B0</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#28A745</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="error_red">#DC3545</color>
+    <color name="info_blue">#17A2B8</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <color name="overlay_dark">#80000000</color>
+</resources>

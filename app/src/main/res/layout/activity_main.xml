@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/primary_red"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <!-- Logo Section -->
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/splash_icon_bg"
+        android:gravity="center"
+        android:layout_marginBottom="24dp">
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:text="🛡️"
+            android:textSize="50sp"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <!-- Title Section -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="@color/accent_white"
+        android:layout_marginBottom="8dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_tagline"
+        android:textSize="14sp"
+        android:textColor="@color/accent_light_gray"
+        android:layout_marginBottom="48dp"
+        android:gravity="center" />
+
+    <!-- Loading Indicator -->
+    <ProgressBar
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/accent_white" />
+
+</LinearLayout>

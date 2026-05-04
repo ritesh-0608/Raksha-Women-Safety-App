@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raksha</string>
+    <string name="app_tagline">Your Safety, Our Priority</string>
+
+    <!-- Login Activity -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="signup_here">Sign Up Here</string>
+
+    <!-- Signup Activity -->
+    <string name="signup_title">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="occupation">Occupation</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="login_here">Login Here</string>
+
+    <!-- SOS Contact Setup -->
+    <string name="sos_setup_title">Setup SOS Contact</string>
+    <string name="sos_setup_subtitle">Choose an emergency contact</string>
+    <string name="select_contact">Select From Contacts</string>
+    <string name="contact_selected">No Contact Selected Yet</string>
+    <string name="skip">Skip</string>
+    <string name="proceed">Proceed</string>
+
+    <!-- Dashboard -->
+    <string name="sos_button">SOS</string>
+    <string name="sos_alert">Emergency!</string>
+    <string name="women_helpline">Women Helpline</string>
+    <string name="helpline_number">1091</string>
+    <string name="quick_share_location">Share Location</string>
+    <string name="safety_messages">Safety Tips</string>
+    <string name="menu">Menu</string>
+
+    <!-- Navigation Menu -->
+    <string name="general_settings">General Settings</string>
+    <string name="sos_contact_info">SOS Contact Info</string>
+    <string name="nearest_police">Nearest Police Station</string>
+    <string name="nearest_hospital">Nearest Hospital</string>
+    <string name="nearest_medical">Nearest Medical Shop</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+
+    <!-- Settings -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <!-- About Us -->
+    <string name="about_title">About Raksha</string>
+    <string name="about_description">Raksha is a comprehensive women\'s safety application designed to provide immediate assistance and support in emergency situations.</string>
+    <string name="version">Version 1.0</string>
+
+    <!-- Messages -->
+    <string name="empty_field">Please fill all fields</string>
+    <string name="invalid_phone">Invalid phone number</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="login_success">Login successful</string>
+    <string name="signup_success">Account created successfully</string>
+    <string name="contact_not_selected">Please select SOS contact</string>
+    <string name="sos_message">I need help! Please assist me. My location:</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/accent_white"
+    android:padding="24dp">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sos_setup_title"
+        style="@style/HeadingLarge"
+        android:layout_marginBottom="8dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sos_setup_subtitle"
+        style="@style/BodyText"
+        android:layout_marginBottom="32dp"
+        android:gravity="center" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/card_bg"
+        android:layout_marginBottom="24dp">
+
+        <TextView
+            android:id="@+id/selected_contact_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/contact_selected"
+            android:gravity="center"
+            style="@style/BodyText"
+            android:padding="16dp" />
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/select_contact_btn"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="@string/select_contact"
+        android:textColor="@color/accent_white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:background="@drawable/button_primary_bg"
+        android:layout_marginBottom="12dp" />
+
+    <Button
+        android:id="@+id/proceed_btn"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="@string/proceed"
+        android:textColor="@color/accent_white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:background="@drawable/button_primary_bg"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/skip_btn"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="@string/skip"
+        android:textColor="@color/primary_red"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:background="@drawable/button_secondary_bg" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
