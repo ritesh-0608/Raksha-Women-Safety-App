@@ -27,6 +27,11 @@ Raksha's critical components are rigorously validated to ensure user safety:
 - **UI Automation:** Using Espresso to test UI workflows like login and emergency contact setup without manual intervention.
 - **System Testing:** Using UIAutomator to handle system-level popups (e.g., location permissions) seamlessly during test execution.
 
+## ⚙️ Core Modules Tested
+- **Authentication:** Login and Signup validation.
+- **Emergency Trigger:** SOS functionality and Helpline access.
+- **Navigation & Search:** Map rendering and emergency service location validation.
+
 ## 🛠️ Architecture
 
 - **Platform:** Native Android (Java)
